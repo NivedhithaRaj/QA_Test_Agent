@@ -69,5 +69,3 @@ Creating the `.docx` needs an environment that can write Word files (for example
 ## Notes
 
 - Output is AI-generated and must be reviewed by a tester before use.
-- No automation code is produced unless you ask for it.
-- Add a license file before publishing publicly.
